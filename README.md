@@ -38,3 +38,7 @@
  [Colors Resource(Rainbow Apple Logo)](https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/) / Xcode preferences
  
  [YouTube Demo](https://youtu.be/nokdtApjAsg)
+ 
+ 
+ ## Preview
+![Preview](http://p6jdj4bzt.bkt.clouddn.com/Screen%20Shot%202018-04-02%20at%2010.36.26%20AM.png)
